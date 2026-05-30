@@ -1,0 +1,137 @@
+{
+  "source": {
+    "driveFolder": "TBT Racing",
+    "driveFolderId": "1OscnWX0Wz8o4YCvzDvNmp6b3v3agTDcF",
+    "files": [
+      {
+        "name": "SERVICE COST - Sheet1.pdf",
+        "driveFileId": "1VeC1WqJ6rHh7xQIBmKxmhI-SJTwrwcTq",
+        "localPath": "docs/source/tbt-drive/service-cost-sheet.pdf",
+        "modifiedTime": "2026-05-26T23:03:37.000Z"
+      },
+      {
+        "name": "BIKE_RIDER_USE_SERVICE_LOCATIONS_TRAINING.... - Sheet1.pdf",
+        "driveFileId": "13N7gcqyhCrS4mwSM-MyBlWPiyYQNrfQF",
+        "localPath": "docs/source/tbt-drive/bike-rider-use-service-locations-training-sheet.pdf",
+        "modifiedTime": "2026-05-26T18:14:29.000Z"
+      },
+      {
+        "name": "BIKE BRANDS AND MODELS - Sheet1.pdf",
+        "driveFileId": "1BeLJUUdoSHSLDLBs_FaRLia4FQpEWWXr",
+        "localPath": "docs/source/tbt-drive/bike-brands-and-models-sheet.pdf",
+        "modifiedTime": "2026-05-20T23:06:47.000Z"
+      }
+    ],
+    "importedAt": "2026-05-27"
+  },
+  "brandGuidelines": {
+    "colors": [
+      { "name": "Pantone Process Blue C", "hex": "#0085ca" },
+      { "name": "Pantone Yellow C", "hex": "#fedd00" },
+      { "name": "Black", "hex": "#000000" },
+      { "name": "White", "hex": "#fffffe" }
+    ]
+  },
+  "bikeBrands": [
+    "Honda",
+    "Yamaha",
+    "Suzuki",
+    "Kawasaki",
+    "KTM",
+    "GasGas",
+    "Husqvarna",
+    "Beta",
+    "Ducati",
+    "TM Racing",
+    "Triumph",
+    "Sherco",
+    "Cobra Moto",
+    "AJP",
+    "Fantic",
+    "Kove",
+    "Rieju",
+    "Stark Varg",
+    "SurRon",
+    "Other"
+  ],
+  "riderSkillLevels": [
+    { "code": "PRO", "label": "Pro" },
+    { "code": "EXP/A", "label": "Expert / A" },
+    { "code": "AM/INT/B", "label": "Amateur / Intermediate / B" },
+    { "code": "NOV/C", "label": "Novice / C" },
+    { "code": "BEG/D", "label": "Beginner / D" }
+  ],
+  "bikeUses": [
+    "Desert",
+    "Rally",
+    "Enduro",
+    "Hard Enduro",
+    "Hare & Scramble",
+    "ADV-BDR",
+    "MX",
+    "SX",
+    "AX",
+    "GP",
+    "Dual Sport",
+    "Flat Track",
+    "Super Moto"
+  ],
+  "serviceTypes": [
+    { "name": "Full Service Re-Valve (Fork & Shock)" },
+    { "name": "Full Service Re-Build (Fork & Shock)" },
+    { "name": "Fork Re-Valve" },
+    { "name": "Fork Re-Build" },
+    { "name": "Shock Re-Valve" },
+    { "name": "Shock Re-Build" },
+    { "name": "Full Bike Prep", "notes": "Drop off entire bike" }
+  ],
+  "servicePricing": [
+    { "service": "Fork Rebuild", "priceDisplay": "$240.00" },
+    { "service": "Fork Revalve", "priceDisplay": "$350.00" },
+    { "service": "Shock Rebuild", "priceDisplay": "$150.00" },
+    { "service": "Shock Revalve", "priceDisplay": "$250.00" },
+    { "service": "Fork Fluid", "priceDisplay": "$50.00" },
+    { "service": "Shock Fluid", "priceDisplay": "$25.00" },
+    { "service": "Fork Springs", "priceDisplay": "$150-$185" },
+    { "service": "Shock Springs", "priceDisplay": "$150-$185" },
+    { "service": "Fork Oil Seals", "priceDisplay": "$16 x2" },
+    { "service": "Fork Dust Seals", "priceDisplay": "$16 x2" },
+    { "service": "Fork Guide Bushings", "priceDisplay": "$16 x2" },
+    { "service": "Fork Piston Rings", "priceDisplay": "$16 x2" },
+    { "service": "Shock Oil Seal", "priceDisplay": "$16" },
+    { "service": "Bladder Kit", "priceDisplay": "$185" },
+    { "service": "Shop Supplies", "priceDisplay": "$20", "notes": "$10 forks / $10 shock" },
+    { "service": "RNR (Remove and Replace)", "priceDisplay": "$75-$150" },
+    { "service": "Cleaning Fee", "priceDisplay": "$45" },
+    { "service": "Bump Stop", "priceDisplay": "$22.99" },
+    { "service": "ICS Springs", "priceDisplay": "$85" }
+  ],
+  "locations": [
+    "TBT Southern California",
+    "TBT Washington",
+    "TBT North Carolina",
+    "TBT East Kentucky",
+    "TBT West Kentucky",
+    "TBT Idaho",
+    "TBT Hawaii",
+    "TBT Arizona",
+    "TBT NorCal",
+    "TBT Utah",
+    "TBT Canada East",
+    "TBT Ireland",
+    "TBT Mexico",
+    "TBT Brazil",
+    "TBT Guatemala",
+    "TBT Central Cali",
+    "TBT Nevada",
+    "TBT Central California",
+    "TBT Wyoming",
+    "TBT Oklahoma",
+    "TBT Georgia"
+  ],
+  "bikeModelsSource": {
+    "status": "raw_pdf_extracted",
+    "localMarkdown": "docs/source/tbt-drive/bike-brands-and-models-sheet.extracted.md",
+    "notes": "The bike models sheet contains a very large brand/model matrix. The PDF text extraction is preserved in source control, but the model-level rows should be validated against the original sheet before becoming production filters."
+  }
+}

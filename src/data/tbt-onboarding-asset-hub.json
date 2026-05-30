@@ -1,0 +1,80 @@
+{
+  "hub": {
+    "name": "TBT Franchise Onboarding Asset Hub",
+    "driveFolderId": "1cp0hjl1V10rvZDwzho-Pym2jXlgW-9ul",
+    "url": "https://drive.google.com/drive/folders/1cp0hjl1V10rvZDwzho-Pym2jXlgW-9ul",
+    "purpose": "Single controlled access point for franchise/onboarding assets. Grant and revoke access at this folder instead of sharing source folders directly."
+  },
+  "sections": [
+    {
+      "name": "00_START_HERE",
+      "driveFolderId": "1PIa_GpfVrRmX_lVgd9UbnorVY01wqPr-",
+      "purpose": "Access rules and orientation notes."
+    },
+    {
+      "name": "01_Brand_Logo_Art",
+      "driveFolderId": "1rxpYTq__6s9XUDznm6X4nBaDS9x9xoQ5",
+      "purpose": "Logo, trailer art, brand marks, and design source files.",
+      "status": "waiting_on_source_assets"
+    },
+    {
+      "name": "02_Trailer_Sticker_Marketing",
+      "driveFolderId": "1iFTes9PHDAKfZ-Gl5M9XOYCrUWTwfgph",
+      "purpose": "Trailer, sticker, race-day, sponsorship, stunt-video, and guerrilla marketing materials."
+    },
+    {
+      "name": "03_Service_Bike_Info",
+      "driveFolderId": "1KzISZdVm_2mXc93CtAMB1uIcFlmWggr_",
+      "purpose": "Bike brands/models, rider/use/service/location sheets, service costs, and technical reference PDFs."
+    },
+    {
+      "name": "04_Training_Playbooks",
+      "driveFolderId": "1ca1cbLNuY1EetrHh6iizGSMw_uPDqOVd",
+      "purpose": "Franchisee success, training workbook, and service workflow playbooks."
+    },
+    {
+      "name": "05_Franchise_Admin",
+      "driveFolderId": "14zOm05bgLV8g0OuF3MYq7Ru0rF30XDYx",
+      "purpose": "Franchise pricing, franchise opportunity, and admin/commercial docs."
+    }
+  ],
+  "assets": [
+    { "section": "03_Service_Bike_Info", "name": "SERVICE COST - Sheet1.pdf", "type": "shortcut", "targetFileId": "1VeC1WqJ6rHh7xQIBmKxmhI-SJTwrwcTq" },
+    { "section": "03_Service_Bike_Info", "name": "BIKE_RIDER_USE_SERVICE_LOCATIONS_TRAINING - Sheet1.pdf", "type": "shortcut", "targetFileId": "13N7gcqyhCrS4mwSM-MyBlWPiyYQNrfQF" },
+    { "section": "03_Service_Bike_Info", "name": "BIKE BRANDS AND MODELS - Sheet1.pdf", "type": "shortcut", "targetFileId": "1BeLJUUdoSHSLDLBs_FaRLia4FQpEWWXr" },
+    { "section": "03_Service_Bike_Info", "name": "TBT LOCATIONS INFO - Sheet1.pdf", "type": "shortcut", "targetFileId": "1CSQYObitir3HPMNAJ7d2M1B_2BFnlfex" },
+    { "section": "03_Service_Bike_Info", "name": "2021 KYB Genuine Parts Catalog.pdf", "type": "shortcut", "targetFileId": "1HxIsKt9X8au823bG5BD6GYI0AB-8OHBr" },
+    { "section": "03_Service_Bike_Info", "name": "SDI DEALER APP.pdf", "type": "shortcut", "targetFileId": "1MavVXRxK3lD1Qfk4qNm05mVps16nbDEx" },
+    { "section": "05_Franchise_Admin", "name": "TBT FRANCHISE PRICING - Sheet1.pdf", "type": "shortcut", "targetFileId": "1-QRezHIx5tj3O8BOCf_ja6cdB0KF7ebH" },
+    { "section": "05_Franchise_Admin", "name": "TBT-Racing-Franchise-Opportunity-2026.pdf", "type": "shortcut", "targetFileId": "1nGVNdxlDG1RXKxcWhuzuA_x_Zlfz5Stm" },
+    { "section": "04_Training_Playbooks", "name": "Module-1-Fork-Internals-Sample.pdf", "type": "shortcut", "targetFileId": "1PO2sAfskrHEWAGWwN6ebCqM-sv66IREj" },
+    { "section": "04_Training_Playbooks", "name": "Module-2-Shock-Rebuild-Sample.pdf", "type": "shortcut", "targetFileId": "1wUGDyd4P0oalKx55dD4MPO3WCKT0z2zT" },
+    { "section": "04_Training_Playbooks", "name": "Module-3-Customer-Workflow-Sample.pdf", "type": "shortcut", "targetFileId": "1-2lm-btGOQPCMhE5M78M-MuK94iRcVs8" },
+    { "section": "04_Training_Playbooks", "name": "Module-4-Local-Launch-Playbook-Sample.pdf", "type": "shortcut", "targetFileId": "1Lp0ack-HjB_wHhro-uGO6bZ9k82p6Xrk" },
+    { "section": "04_Training_Playbooks", "name": "Module-5-Local-SEO-GBP-Playbook-Sample.pdf", "type": "shortcut", "targetFileId": "157f2PB2XMjdVlYvxZFIZOJ2YgFWqEYlb" },
+    { "section": "04_Training_Playbooks", "name": "Module-6-Customer-Acquisition-Playbook-Sample.pdf", "type": "shortcut", "targetFileId": "1WicWx_ymIp775fLksqyMvn8bkDDyhkvU" },
+    { "section": "04_Training_Playbooks", "name": "Module-7-Race-Ambassador-Program-Sample.pdf", "type": "shortcut", "targetFileId": "1aQZQEk8EYCejniDVjeMS4-7nJoDWe8iE" },
+    { "section": "04_Training_Playbooks", "name": "Module-8-Pricing-Service-Tier-Strategy-Sample.pdf", "type": "shortcut", "targetFileId": "1U1FIN1r-i_tyg7iumwcZeIFYHQM-pEJJ" },
+    { "section": "04_Training_Playbooks", "name": "Module-9-Customer-Retention-Recurring-Revenue-Sample.pdf", "type": "shortcut", "targetFileId": "179TzdZopEFyo0-E3RiKVrU4fuPqt_QtN" },
+    { "section": "04_Training_Playbooks", "name": "Module-10-Guerrilla-Marketing-Master-Playbook.pdf", "type": "shortcut", "targetFileId": "1jyM4Lh-0XsC9vOhS77TeC6MpMRPZHJDD" },
+    { "section": "02_Trailer_Sticker_Marketing", "name": "brief-01-suspension-check-tent-v2.pdf", "type": "shortcut", "targetFileId": "1ghRWJ_lI_bTRnNyQE12Dzod4GcdppIUd" },
+    { "section": "02_Trailer_Sticker_Marketing", "name": "brief-02-race-day-contingency-v2.pdf", "type": "shortcut", "targetFileId": "1VGvl4rOxLDgcAPzhcUKgOZlfu_6DHbY0" },
+    { "section": "02_Trailer_Sticker_Marketing", "name": "brief-03-pro-rider-stunt-video-v2.pdf", "type": "shortcut", "targetFileId": "1kt6YowS0prw9qSjq36_aQog1XyNG6Jks" },
+    { "section": "02_Trailer_Sticker_Marketing", "name": "brief-04-track-ready-setup-day-v2.pdf", "type": "shortcut", "targetFileId": "1h4amUbF5ryIpGUa5sfwJM4oCj8LacjzG" },
+    { "section": "02_Trailer_Sticker_Marketing", "name": "brief-05-sticker-bomb-strategy-v2.pdf", "type": "shortcut", "targetFileId": "1ShqGTHZfXWvwKiKYWcJfrYmPZjWR1jbQ" },
+    { "section": "02_Trailer_Sticker_Marketing", "name": "companion-announcer-sheet-q3-2026-v2.pdf", "type": "shortcut", "targetFileId": "1Iv4D6wAm-QqT1rOA4yT3lB5CtR00-oJJ" },
+    { "section": "02_Trailer_Sticker_Marketing", "name": "companion-year-end-award-template-v2.pdf", "type": "shortcut", "targetFileId": "1PzzqMpKWuuBEKY9ofy6L7I-yHD_JnLKR" }
+  ],
+  "missingAssets": [
+    {
+      "name": "Clean TBT logo package",
+      "neededFormats": ["SVG", "transparent PNG", "black/white variants", "print-ready vector"],
+      "notes": "Search found unrelated logo files and campaign PDFs, but no clean TBT logo source package in the TBT Drive folders."
+    },
+    {
+      "name": "Trailer wrap/art source files",
+      "neededFormats": ["editable design source", "print-ready PDF", "PNG/JPG previews"],
+      "notes": "Marketing briefs related to sticker/trailer/race-day campaigns were added, but editable trailer artwork source files were not found."
+    }
+  ]
+}
