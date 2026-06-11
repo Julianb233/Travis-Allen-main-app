@@ -9,3 +9,9 @@ playwright-report/
 .env
 .env.local
 .env.*.local
+
+# Agent workspace artifacts
+.codex/
+.hermes/
+.planning/e2e/results/
+agentic-os.config.json
