@@ -16,3 +16,4 @@ playwright-report/
 .planning/e2e/results/
 agentic-os.config.json
 .env.production
+AGENTS.md
